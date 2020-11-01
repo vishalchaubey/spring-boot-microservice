@@ -1,0 +1,6 @@
+/Users/vishalchoubey/Documents/My_Projects_Folders/CRUD_SPRING_BOOT/spring-boot-mysql-rest-api-tutorial/src/main/java/com/example/easynotes/EasyNotesApplication.java
+/Users/vishalchoubey/Documents/My_Projects_Folders/CRUD_SPRING_BOOT/spring-boot-mysql-rest-api-tutorial/src/main/java/com/example/easynotes/controller/NoteController.java
+/Users/vishalchoubey/Documents/My_Projects_Folders/CRUD_SPRING_BOOT/spring-boot-mysql-rest-api-tutorial/src/main/java/com/example/easynotes/repository/NoteRepository.java
+/Users/vishalchoubey/Documents/My_Projects_Folders/CRUD_SPRING_BOOT/spring-boot-mysql-rest-api-tutorial/src/main/java/com/example/easynotes/controller/IndexController.java
+/Users/vishalchoubey/Documents/My_Projects_Folders/CRUD_SPRING_BOOT/spring-boot-mysql-rest-api-tutorial/src/main/java/com/example/easynotes/exception/ResourceNotFoundException.java
+/Users/vishalchoubey/Documents/My_Projects_Folders/CRUD_SPRING_BOOT/spring-boot-mysql-rest-api-tutorial/src/main/java/com/example/easynotes/model/Note.java
